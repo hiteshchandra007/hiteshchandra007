@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hiteshchandra007
-- 👀 I’m interested in BigData sets
+- 👀 I’m interested in building iOS apps and working on Machine Learning algorithms
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me hiteshchandra2022@gmail.com
